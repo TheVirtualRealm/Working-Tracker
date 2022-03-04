@@ -28,7 +28,7 @@ conn.execute("INSERT INTO ZombieTracker(Name, Age, Type, Location, Brains, Speci
     #VALUES(001, 'Ninja', 99, 'Blue Walker', 'Ottawa', FALSE, 'Igloos')")
 
 
-####
+#### Did it work? Probably not.
 
 conn.commit()
 
